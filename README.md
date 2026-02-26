@@ -12,7 +12,7 @@ The goal is clarity and simplicity. There is no over-engineering, no defensive t
 
 ## Files
 
-### `kmmmu_eval_tutorial_with_utils.ipynb`
+### `eval_tutorial.ipynb`
 
 The main notebook that:
 
